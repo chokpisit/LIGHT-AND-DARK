@@ -39,25 +39,43 @@ https://youtu.be/F7KP_sQ-SpA  -->  คลิปวิดิโอการพร
 # Code arduino
 [![code.png](https://i.postimg.cc/HxdMMD54/code.png)](https://postimg.cc/LqQhdWxn)
 
+
 int sensorPin = A0; // เซ็ตค่าอินพุตของเซนเซอร์ที่ช่อง A0
+
 int sensorValue = 0; // ประกาศตัวแปรไว้เก็บค่าของ เซนเซอร์
 
+
 void setup() {
+
 pinMode(D2,OUTPUT); // เซ็ตค่าเอาต์พุตไว้ที่ช่อง D2
+
 Serial.begin(9600); // แสดงค่าบน Serial Monitor
+
 }
 
+
 void loop() {
+
 sensorValue = analogRead(sensorPin); // อ่านค่าจากเซนเซอร์วัดแสง มาเก็บที่ตัวแปร sensorValue
+
 Serial.println(sensorValue); // แสดงค่าของเซนเซอร์ที่จอ Serial Monitor
+
 if (sensorValue > 700) // ถ้าค่าเซ็นมากกว่า 700 ให้ทำ.... (ค่ายิ่งมากยิ่งมืด)
+
 {
+
 digitalWrite(D2,HIGH); // ให้ D2 ปล่อยไฟ
+
 }
+
 else
+
 {
+
 digitalWrite(D2,LOW); // ให้ D2 ไม่ปล่อยไฟ
+
 }
+
 }
 
 --------------------------------------------------------------------------------------------------------------------------------------------
