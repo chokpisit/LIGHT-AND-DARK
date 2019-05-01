@@ -90,12 +90,12 @@ Youtube :  https://youtu.be/F7KP_sQ-SpA
 [![dark.jpg](https://i.postimg.cc/Nf9K5fSv/dark.jpg)](https://postimg.cc/w7zqrH9w)
 
 สมาชิกลุ่ม
-|               |ชื่อ             | นามสกุล   | GitHub Username |รหัสนักศึกษา|
-| ------------- |:-------------:|:---------:|:---------------:|---------:|
-| col 3 is      |จิรวัฒน์|ประทุมถิ่น|[it61070025](https://github.com/it61070025)|61070025|
-| col 2 is      |โชคพิสิฐ|หลิวรุ่งทรัพย์|[chokpisit](https://github.com/chokpisit)|61070042|
-| zebra stripes |ธนโชติ|เลิศลาภนนท์|[jer11698](https://github.com/jer11698)|61070070|
-| zebra stripes |ศุภานันท์|ขวัญเพรา|[Mymieeye](https://github.com/Mymieeye)|61070229|
+|               |ชื่อ     | นามสกุล   | GitHub Username |รหัสนักศึกษา |
+| ------------- | ------ |:---------:|:---------------:|---------: |
+| col 3 is      |จิรวัฒน์  |ประทุมถิ่น|[it61070025](https://github.com/it61070025)|61070025 |
+| col 2 is      |โชคพิสิฐ |หลิวรุ่งทรัพย์|[chokpisit](https://github.com/chokpisit)|61070042 |
+| zebra stripes |ธนโชติ  |เลิศลาภนนท์|[jer11698](https://github.com/jer11698)|61070070 |
+| zebra stripes |ศุภานันท์ |ขวัญเพรา|[Mymieeye](https://github.com/Mymieeye)|61070229 |
 
 
 รายงาน และ ซอร์สโค้ดนี้ เป็นส่วนหนึ่งของวิชา การสร้างโปรแกรมคอมพิวเตอร์ Computer Programming (06016315)
