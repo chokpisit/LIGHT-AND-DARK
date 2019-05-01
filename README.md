@@ -81,6 +81,7 @@ digitalWrite(D2,LOW); // ให้ D2 ไม่ปล่อยไฟ
 --------------------------------------------------------------------------------------------------------------------------------------------
 
 # ผลที่ได้
+
 Youtube :  https://youtu.be/F7KP_sQ-SpA
 
 เมื่อเอาของมาปิดบริเวณเซนเซอร์ จะทำให้มืด ไฟก็จะติด
@@ -90,12 +91,22 @@ Youtube :  https://youtu.be/F7KP_sQ-SpA
 [![dark.jpg](https://i.postimg.cc/Nf9K5fSv/dark.jpg)](https://postimg.cc/w7zqrH9w)
 
 สมาชิกลุ่ม
-|               |ชื่อ     | นามสกุล   | GitHub Username |รหัสนักศึกษา |
-| ------------- | ------ |:---------:|:---------------:|---------: |
-| col 3 is      |จิรวัฒน์  |ประทุมถิ่น|[it61070025](https://github.com/it61070025)|61070025 |
-| col 2 is      |โชคพิสิฐ |หลิวรุ่งทรัพย์|[chokpisit](https://github.com/chokpisit)|61070042 |
-| zebra stripes |ธนโชติ  |เลิศลาภนนท์|[jer11698](https://github.com/jer11698)|61070070 |
-| zebra stripes |ศุภานันท์ |ขวัญเพรา|[Mymieeye](https://github.com/Mymieeye)|61070229 |
+
+[![23.jpg](https://i.postimg.cc/q7VtyVnD/23.jpg)](https://postimg.cc/RWdVxYgw)
+
+จิรวัฒน์ ประทุมถิ่น 61070025 github : [it61070025](https://github.com/it61070025)
+
+[![profile.jpg](https://i.postimg.cc/ydSsPkHF/profile.jpg)](https://postimg.cc/ZBZGYY0R)
+
+โชคพิสิฐ หลิวรุ่งทรัพย์ 61070042 github : [chokpisit](https://github.com/chokpisit)
+
+[![b.jpg](https://i.postimg.cc/C5syP86f/b.jpg)](https://postimg.cc/q6qZgNrk)
+
+ธนโชติ  เลิศลาภนนท์ 61070070  github : [jer11698](https://github.com/jer11698)
+
+[![15.jpg](https://i.postimg.cc/SRr57hJ6/15.jpg)](https://postimg.cc/8f7tNxdc)
+
+ศุภานันท์ ขวัญเพรา 61070229   github : [Mymieeye](https://github.com/Mymieeye)
 
 
 รายงาน และ ซอร์สโค้ดนี้ เป็นส่วนหนึ่งของวิชา การสร้างโปรแกรมคอมพิวเตอร์ Computer Programming (06016315)
@@ -109,8 +120,3 @@ Youtube :  https://youtu.be/F7KP_sQ-SpA
 สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
 
 
-| Tables        | Are           | Cool   |
-| ------------- |:-------------:| -----: |
-| col 3 is      | right-aligned | 53231฿ |
-| col 2 is      | centered      |   399฿ |
-| zebra stripes | are neat      |    33฿ |
