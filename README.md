@@ -3,24 +3,38 @@
 
 https://youtu.be/F7KP_sQ-SpA  -->  คลิปวิดิโอการพรีเซนต์
 
+--------------------------------------------------------------------------------------------------------------------------------------------
 # arduino NodeMCU
 [![IMG1.jpg](https://i.postimg.cc/fyYp3sfj/IMG1.jpg)](https://postimg.cc/9wFJSvSr)
 # หลอดไฟเปิด/ปิด อัตโนมัติ
 
 # อุปกรณ์
 [![mo.png](https://i.postimg.cc/43bZmrXg/mo.png)](https://postimg.cc/qtRWFDtb)
+
 1. LDR Photoresistor Sensor Module โมดูลวัดแสง
+
 [![lay.png](https://i.postimg.cc/W4SCRj2h/lay.png)](https://postimg.cc/t1Z2PKnj)
+
 2. โมดูล รีเลย์ 1-Channel relay 5V 1 ช่อง isolation control Relay Module Shield 250V/10A Active LOW
+
 [![mcu.png](https://i.postimg.cc/9F6j1WM2/mcu.png)](https://postimg.cc/BXBynfH7)
+
 3. arduino nodemcu board
+
 [![led.jpg](https://i.postimg.cc/fW3zvqKx/led.jpg)](https://postimg.cc/grWbzD1J)
+
 4. ชุดหลอดไฟ
+
 [![jump.jpg](https://i.postimg.cc/PrYdgL0J/jump.jpg)](https://postimg.cc/6y6sRQWx)
+
 5. สายจัมไฟ
+
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 # วิธีการตัดวงจร
 [![LDR.jpg](https://i.postimg.cc/zBKdzrNC/LDR.jpg)](https://postimg.cc/vg87hCcT)
+
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 # Code arduino
 [![code.png](https://i.postimg.cc/HxdMMD54/code.png)](https://postimg.cc/LqQhdWxn)
@@ -45,6 +59,8 @@ else
 digitalWrite(D2,LOW); // ให้ D2 ไม่ปล่อยไฟ
 }
 }
+
+--------------------------------------------------------------------------------------------------------------------------------------------
 
 # ผลที่ได้
 Youtube :  https://youtu.be/F7KP_sQ-SpA
