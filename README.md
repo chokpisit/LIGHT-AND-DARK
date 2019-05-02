@@ -1,7 +1,9 @@
 [![icon128.png](https://i.postimg.cc/J7pFtT8k/icon128.png)](https://postimg.cc/ThW04Jpd) 
 # LIGHT AND DARK
 
-https://youtu.be/F7KP_sQ-SpA  -->  คลิปวิดิโอการพรีเซนต์
+https://youtu.be/F7KP_sQ-SpA  -->  คลิปวิดิโอ 1
+
+https://youtu.be/gIlE1k4TSLw  -->  คลิปวิดิโอ 2
 
 # Poster
 [![Poster-LIGHTDARK.png](https://i.postimg.cc/VLyJ7hYX/Poster-LIGHTDARK.png)](https://postimg.cc/c6m1CXtJ)
@@ -95,6 +97,13 @@ Youtube :  https://youtu.be/F7KP_sQ-SpA
 
 --------------------------------------------------------------------------------------------------------------------------------------------
 
+การเชื่อมกับแอปพลิเคชันโทรศัพท์
+
+
+https://youtu.be/gIlE1k4TSLw  -->  คลิปวิดิโอ 2
+
+
+--------------------------------------------------------------------------------------------------------------------------------------------
 # สมาชิกลุ่ม
 
 [![23.jpg](https://i.postimg.cc/q7VtyVnD/23.jpg)](https://postimg.cc/RWdVxYgw)
